@@ -64,7 +64,6 @@ const SERVICES = [
   "Orthodontics / Invisalign",
   "Dental Implants",
   "Root Canal Therapy",
-  "Pediatric Dentistry",
   "Not sure yet",
 ];
 

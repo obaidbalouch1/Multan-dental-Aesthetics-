@@ -16,7 +16,6 @@ to the final result.
 - Orthodontics & Braces
 - Dental Implants
 - Root Canal Therapy
-- Pediatric (Children's) Dentistry
 
 ## Visit us
 
