@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# secrets — never commit real credentials
+.env
+
+# local tool settings
+.claude/
+
+# OS junk
+Thumbs.db
+.DS_Store
